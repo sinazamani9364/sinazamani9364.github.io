@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/Sina.jpg"
   bio              : I'm a CE student at IUST.
   location         : "Tehran"
-  email            : sinazamani9364 @gmail.com
+  email            : sinazamani9364@gmail.com
   twitter: sinazamani14
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: "https://google.com/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
