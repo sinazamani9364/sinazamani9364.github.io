@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sina Zamani"
   avatar           : "/assets/images/Sina.jpg"
-  bio              : I'm a student of Computer Science at IUST. I enjoy learning new things and sharing what I know with others.
+  bio              : I'm a CE student at IUST.
   location         : "Tehran"
   email            : sinazamani9364 @gmail.com
   twitter: sauleh_e
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "https://calendly.com/sinazamani"
 
 # Site Footer
 footer:
@@ -163,7 +163,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "https://calendly.com/sinazamani"
 
 
 # Reading Files
