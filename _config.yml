@@ -113,11 +113,11 @@ author:
   location         : "Tehran"
   email            : sinazamani9364@gmail.com
   twitter: sinazamani14
-  linkedin: Sina Zamani
+  # linkedin: Sina Zamani
   google_scholar: Q25s5KkAAAAJ
   github: sauleh
   instagram: sinazamani785
-  facebook: Sina Zamani
+  # facebook: Sina Zamani
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,8 +128,8 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://www.facebook.com/sina.zamani.1656"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -147,8 +147,8 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
