@@ -1,5 +1,6 @@
 ---
 layout: posts
+{: style="text-align: center" }
 title: مدیریت زمان
 ---
 
@@ -7,7 +8,7 @@ title: مدیریت زمان
 ## متن زیر شرح مصاحبه من با یک نفر از دانشجویان باتجربه تر از خودم است
 
 
-[My Favorite Website](http://www.stackoverflow.com)
+[My Favorite Website](https://www.notion.so/)
 
 
 ![alt text](../assets/images/timemanagement.png "Time Management")
