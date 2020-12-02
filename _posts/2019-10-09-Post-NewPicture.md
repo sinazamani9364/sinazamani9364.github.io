@@ -16,7 +16,7 @@ title: مدیریت زمان
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/timemanagement.jpg "Time Management")
 
 ---
 **Test**: This is atest
