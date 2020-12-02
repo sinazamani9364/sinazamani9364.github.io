@@ -1,19 +1,18 @@
 ---
 layout: posts
-title: My new picture
+title: مدیریت زمان
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## متن زیر شرح مصاحبه من با یک نفر از دانشجویان باتجربه تر از خودم است
+
+
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+
+
+
+
 
 
 
