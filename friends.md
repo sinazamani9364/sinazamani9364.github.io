@@ -2,16 +2,17 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends around the world
-tags: [friends]
-modified: 4-10-2019
+title: My Code Problem Solving Team 
+tags: [Friends]
+modified: 12-8-2020
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+
+* Ali Kontratchi
+* Pooria Rahimi
+* Mohammad Hosein Abbaspour
+* Alireza Eslamikhah
 
 
 
