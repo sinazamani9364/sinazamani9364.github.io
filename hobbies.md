@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-** Listening to Music And Playing the Piano ** <br>
+** Listening to Music and Playing the Piano ** <br>
 ** Watching Movies ** <br>
 ** Watching Youtube Videos ** <br>
 
