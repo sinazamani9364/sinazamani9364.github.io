@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /links/
 title: Links
-tags: [Studying, courses]
+tags: [Studying, Courses]
 modified: 12-8-2019
 comments: false
 ---
