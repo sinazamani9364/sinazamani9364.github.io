@@ -4,7 +4,7 @@ author_profile: true
 permalink: /gallery/
 title: Gallery
 tags: [Gallery]
-modified: 12-10-2019
+modified: 12-10-2020
 comments: false
 gallery:
   - url: /assets/images/A.jpg
