@@ -34,4 +34,4 @@ gallery:
 ---
 ---
 
-
+{% include gallery caption="sina zamani" %}
