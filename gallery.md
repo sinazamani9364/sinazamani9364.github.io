@@ -30,7 +30,11 @@ gallery:
   - url: /assets/images/F.jpg
     image_path: /assets/images/F.jpg
     alt: "placeholder image F"
-    title: "Image F title caption"    
+    title: "Image F title caption" 
+  - url: /assets/images/F.jpg
+    image_path: /assets/images/My Desk.jpg
+    alt: "placeholder image My Desk"
+    title: "Image My Desk title caption"       
 ---
 ---
 
